@@ -46,4 +46,23 @@ if(num%2==0):
 	print("number is even")
 else:
 	print("number is odd")
+mod
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+# to calculate modlus of a and b
+c=a%b
+print(c)
+division
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+# to calculate div of a and b
+c=a/b
+print(c)
+mult
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+# to calculate mult of a and b
+c=a*b
+print(c)
+
  
