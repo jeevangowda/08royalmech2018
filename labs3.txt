@@ -1,0 +1,49 @@
+to open the python prompt: type python3 in the teerminal
+>>> 3+4
+7
+>>> a=67
+>>> b=89
+>>> c=a+b
+>>> print(c)
+156
+>>> 3**4
+81
+>>> 3//4
+0
+>>> 4.6+7.2
+11.8
+>>> 4+7
+11
+>>> 4.569//2.0
+2.0
+>>> 4/2
+2.0
+>>> 4*3
+12
+>>> 5-2
+3
+>>> 5**3
+125
+>>> 5%3
+2
+>>> 
+greaterthan lesserthan equal
+>>> a=10
+>>> b=20
+>>> a>b
+False
+>>> a=30
+>>> b=20
+>>> a>b
+True
+>>> a=30
+>>> b=30
+>>> a==b
+True
+if num is odd or even
+num=int(input("enter the number"))
+if(num%2==0):
+	print("number is even")
+else:
+	print("number is odd")
+ 
