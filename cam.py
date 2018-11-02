@@ -1,10 +1,11 @@
 import os
 from time import sleep
 def mymail():
-	def takesnap():
-		os.system("fswebcam -F 4 img/temp.jpg")
+	return
+def takesnap():
+		os.system("fswebcam -F 4 /home/dl108/g1/temp.jpg")
 		return
-		for i in range(10):
-			takesnap()
-			mymail()
-			sleep(5)
+for i in range(10):
+	takesnap()
+	mymail()
+	sleep(5)
