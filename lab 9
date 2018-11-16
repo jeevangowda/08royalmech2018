@@ -86,3 +86,25 @@ You said: I am fine
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+dl108@soetcse:~/g1$ arecord gg.wav
+Recording WAVE 'gg.wav' : Unsigned 8 bit, Rate 8000 Hz, Mono
+^Z
+[3]+  Stopped                 arecord gg.wav
+dl108@soetcse:~/g1$ python3 spe2.py
+The audio file contains: hello how are you hello how are you
+
+
+
+
+
